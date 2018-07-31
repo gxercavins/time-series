@@ -1,4 +1,6 @@
 img/
 venv/
+.idea/
+.ipynb_checkpoints/
 results.txt
 
